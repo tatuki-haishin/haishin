@@ -94,6 +94,48 @@ button {
 
 }
 
+/* おみくじ */
+#omikuji {
+
+    text-align: center;
+
+    padding: 80px 20px;
+
+    background: #fff5d7;
+
+}
+
+
+#omikuji h2 {
+
+    font-size: 36px;
+
+}
+
+
+#result {
+
+    font-size: 24px;
+
+    margin: 30px;
+
+}
+
+
+#omikuji button {
+
+    background: #e67e22;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 30px;
+
+    padding: 15px 40px;
+
+}
+
 
 
 .feature img {
