@@ -3,9 +3,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-
 /* ヘッダー */
-
 header {
     background: #338877;
     color: white;
@@ -13,14 +11,11 @@ header {
     text-align: center;
 }
 
-
 header h1 {
     margin: 0;
 }
 
-
 /* トップ */
-
 #hero {
 
     text-align: center;
@@ -31,13 +26,11 @@ header h1 {
 
 }
 
-
 #hero h2 {
 
     font-size: 48px;
 
 }
-
 
 #hero p {
 
@@ -47,9 +40,7 @@ header h1 {
 
 }
 
-
 /* ボタン */
-
 button {
 
     padding: 12px 24px;
@@ -66,7 +57,7 @@ button {
 
 #features {
 
-    padding: 80px 20px;
+    padding: 100px 20px;
 
     text-align: center;
 
