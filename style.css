@@ -250,4 +250,24 @@ header {
 
     }
 
+    #profile {
+
+        padding: 70px 20px;
+
+    }
+
+
+    .profile-container {
+
+        flex-direction: column;
+
+    }
+
+
+    .profile-text {
+
+        text-align: center;
+
+    }
+
 }
