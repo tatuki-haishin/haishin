@@ -270,4 +270,16 @@ footer {
 
     }
 
+    /* スタンプ・イラストサイズ調整 */
+
+    .feature {
+        width: 260px;
+    }
+
+
+    .feature img {
+        height: 180px;
+        object-fit: contain;
+    }
+
 }
